@@ -17,7 +17,7 @@ Pri pokretanju prikazuje se prazna tabla i očekuje se da prvi odigrate klikom n
 
 ### 3.
 
-Igra je završena kada više ne postoji mogućnost da se neka od pločica postavi te je pobednik onaj ko je poslednji postavio pločicu na tablu
+Igra je završena kada više ne postoji mogućnost da se neka od pločica postavi te je pobednik onaj ko je poslednji postavio pločicu na tablu.
 
 <p align="center">
   <img width="452" alt="Screenshot 2024-02-28 185517" src="https://github.com/zdravkoovic/Domineering/assets/76448150/9a446265-e67a-4c17-bf40-adf552ef5aba">
